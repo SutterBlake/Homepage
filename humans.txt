@@ -1,0 +1,12 @@
+/* TEAM */
+Designer & Developer: SutterBlake
+Site: https://github.com/SutterBlake
+location: Alicante, Spain
+
+/* SITE */
+Last update:09/27/2016
+Language: English
+Doctype: HTML5
+Standards: HTML5, CSS3, JavaScript.
+Componentes: None.
+Software: Atom, Browser-Sync, Firefox, Chrome
