@@ -1,4 +1,8 @@
 # Homepage
 Personal homepage with section of webpages.
 
-Version 0.9, stable page with CSS and a little JavaScript.
+https://sutterblake.github.io/Homepage/
+
+
+Version updates:
+v0.9, stable page with CSS and a little JavaScript.
