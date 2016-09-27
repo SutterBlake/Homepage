@@ -1,5 +1,5 @@
 var links = {
-  weather: 'https://www.google.es/search?q=Weather+at+',
+  weather: 'https://www.google.es/search?q=Weather+in+',
   google: 'https://www.google.es/search?q=',
   bing: 'http://www.bing.com/search?q=',
   amazon: 'https://www.amazon.es/s/field-keywords='
